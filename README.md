@@ -56,8 +56,5 @@ By making minor changes in the config file you can
 - detect only digits
 - whitelist characters
 - blacklist characters
-- work with multiple languages
-
-### Nanonets PDF to CSV 
-We've recently launched a tool that lets you easily convert PDFs to CSVs from [here](https://nanonets.com/convert-pdf-to-csv)
+- work with multiple language
 
