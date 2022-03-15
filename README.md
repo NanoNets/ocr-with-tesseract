@@ -30,7 +30,7 @@ We will see how to obtain all of them.
 
 There are several ways a page of text can be analysed. The tesseract api provides several page segmentation modes if you want to run OCR on only a small region or in different orientations, etc.
 
-Here's a list of the supported page segmentation modes by tesseract -
+Here's a list of the supported page segmentation modes by tesseract. Check it out here
 
 0    Orientation and script detection (OSD) only.  
 1    Automatic page segmentation with OSD.  
@@ -57,4 +57,7 @@ By making minor changes in the config file you can
 - whitelist characters
 - blacklist characters
 - work with multiple languages
+
+### Nanonets PDF to CSV 
+We've recently launched a tool that lets you easily convert PDFs to CSVs from [here](https://nanonets.com/convert-pdf-to-csv)
 
